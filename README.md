@@ -16,7 +16,9 @@ This is a simple and responsive **User Registration Form** built with pure HTML 
 ## 📷 Screenshots
 
 ### 🔹 Form Interface
-  ![Screenshot 2] (Screenshots/Screenshot 2025-06-04 203046.png)
+  ![Screenshot 2] (Celebal-internship-task-week-1/Screenshots
+/Screenshot 2025-06-04 203046.png)
+
 
 ### 🔹 Mobile View
 ![Screenshot 2](screenshots/screenshot2.png)
